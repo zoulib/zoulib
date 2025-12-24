@@ -6,9 +6,9 @@
 
 ## 🔗 Ссылки
 
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram)](https://t.me/dizsociety)  
+[Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram)  
 
-- [Адаптер](https://github.com/username/adapter)  
+- [Адаптер](https://t.me/dizsociety)  
 - [Канал проекта](https://t.me/+IVv83P-6V4AxNzM1)  
 
 
