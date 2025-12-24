@@ -1,4 +1,17 @@
-## Hi there 👋
+# 🟣 zoulib Project
+
+Добро пожаловать в мой проект здесь скоро будет сайт с интерфейсом такчто ждите
+
+---
+
+## 🔗 Ссылки
+
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram)](https://t.me/dizsociety)  
+
+- [Адаптер](https://github.com/username/adapter)  
+- [Канал проекта](https://t.me/+IVv83P-6V4AxNzM1)  
+
+
 
 <!--
 **zoulib/zoulib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
