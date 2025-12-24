@@ -13,7 +13,7 @@
 
 ---
 
-##Support
+## ❤️ Support 
 
 - [YooMoney](https://yoomoney.ru/to/4100119342705728)
 - TON - UQBGLR4XGiNOwowkf-DC_gQxvXeJpNzOYUbLkTUrC43U-y8f
