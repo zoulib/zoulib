@@ -1,16 +1,22 @@
-# 🟣 zoulib Project
+# 🟣 zoulib
 
 Добро пожаловать в мой проект здесь скоро будет сайт с интерфейсом такчто ждите
 
 ---
 
-## 🔗 Ссылки
+## 🔗 Links
 
 ![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram)  
 
 - [Адаптер](https://t.me/dizsociety)  
-- [Канал проекта](https://t.me/+IVv83P-6V4AxNzM1)  
+- [Канал проекта](https://t.me/+IVv83P-6V4AxNzM1)
 
+---
+
+##Support
+
+- [YooMoney](https://yoomoney.ru/to/4100119342705728)
+- TON - UQBGLR4XGiNOwowkf-DC_gQxvXeJpNzOYUbLkTUrC43U-y8f
 
 
 <!--
