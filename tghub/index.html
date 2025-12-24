@@ -1,1 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>zoulib — tghub</title>
 
+<script src="https://cdn.tailwindcss.com"></script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="cursor" class="cursor-circle"></div>
+
+<div class="fixed top-0 left-0 right-0 h-14 flex items-center px-4 z-50">
+    <button id="burger" class="w-10 h-10 rounded-full glass flex items-center justify-center text-xl">☰</button>
+    <div class="flex-1 flex justify-center">
+        <a href="https://t.me/dizsociety" target="_blank" class="glass-logo">zoulib</a>
+    </div>
+</div>
+
+<div id="menu" class="fixed top-16 left-4 w-64 glass menu-liquid z-50">
+    <div class="p-4 flex justify-between items-center border-b border-white/30">
+        <span class="font-semibold">⚙️ Настройки</span>
+        <button id="close" class="w-8 h-8 rounded-full glass flex items-center justify-center">✕</button>
+    </div>
+    <div class="p-4 flex items-center justify-between">
+        <span>Настройки будут здесь</span>
+    </div>
+</div>
+
+<div id="overlay" class="fixed inset-0 bg-black/30 hidden z-40"></div>
+
+<main class="pt-24 px-4 flex justify-center">
+    <div class="glass rounded-2xl p-6 max-w-md w-full text-center">
+        <h2 class="text-xl font-semibold mb-2">Liquid Glass UI 💧</h2>
+        <p class="text-slate-300 text-sm">
+            Тёмная тема, мягкая тень у логотипа и жидкий кружок за курсором.
+        </p>
+    </div>
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>
