@@ -9,7 +9,7 @@
 ![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram)  
 
 - [Адаптер](https://t.me/dizsociety)  
-- [Канал проекта](https://t.me/+IVv83P-6V4AxNzM1)
+- [Канал проекта](https://t.me/tgnicehub)
 
 ---
 
