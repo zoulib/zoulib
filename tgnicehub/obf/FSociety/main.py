@@ -1,7 +1,7 @@
 # obf by #tgnicehub
 # СКРИПТ ВЫПОЛНЯЕТ ФЕЙК ЗАДАЧИ
 # создан на основе сериала Mr. Robot
-
+# исходный код  на https://github.com/zoulib/zoulib/blob/main/tgnicehub/obf/FSociety/main.py
 # ТОЛЬКО НА ПК
 
 _ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));
